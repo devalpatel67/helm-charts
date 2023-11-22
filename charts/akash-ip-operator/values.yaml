@@ -3,6 +3,6 @@
 # Declare variables to be passed into your templates.
 
 image:
-  repository: ghcr.io/akash-network/provider
+  repository: ghcr.io/devalpatel67/provider
 
 provider_address:
